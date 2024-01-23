@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = EFCore.WebAPI
+build_property.ProjectDir = D:\EFCore.WebAPI\EFCore.WebAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
